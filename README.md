@@ -1,6 +1,6 @@
 # 📊 Modern Portfolio Theory - Python Project
 
-This project demonstrates the use of **Modern Portfolio Theory (MPT) to optimize asset allocation based on historical stock returns and risk. It calculates the efficient frontier**, portfolio risk vs return, and helps visualize how diversification can improve portfolio performance.
+This project demonstrates the use of Modern Portfolio Theory (MPT) to optimize asset allocation based on historical stock returns and risk. It calculates the efficient frontier**, portfolio risk vs return, and helps visualize how diversification can improve portfolio performance. The data from Yahoo Finance has been used to conduct the calculations.
 
 Technologies Used
 - Jupyter Notebook
